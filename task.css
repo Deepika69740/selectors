@@ -1,0 +1,20 @@
+[data-available="true"]{
+    background-color: chartreuse;
+    
+}
+[data-available="false"]{
+    background-color: crimson;
+}
+[data-price="high" ]{
+    font-weight: bold;
+}
+[data-category=Electronics]{
+    list-style-type: upper-alpha;
+}
+.A{
+    background-color: aqua;
+}
+li{
+    margin-top: 8px;
+}
+
